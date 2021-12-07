@@ -1,3 +1,2 @@
-# iom_tema_445A
-IOM
-![alt text](https://github.com/MadyRo99/iom_tema_445A/blob/master/logo.png?raw=true)
+Iom Text-to-Speech Translator
+![alt text](https://raw.githubusercontent.com/MadyRo99/iom_tema_445A/master/demo.JPG)
